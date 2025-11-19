@@ -12,7 +12,7 @@ The goal is to make academic reading more accessible and fun. Browse the papers 
 
 Here’s a list of the papers currently available. Click on the links to view the interactive HTML files directly (e.g., via GitHub Pages, raw view, or local opening in a browser).
 
-- **[Paper Title 1](papers/TiDar_2025.html)**: TiDAR: Think in Diffusion, Talk in Autoregression. (Field: AI, Year: 2025)
+- **[Paper Title 1](papers/paper_1_TiDAR(2025).html)**: TiDAR: Think in Diffusion, Talk in Autoregression. (Field: AI, Year: 2025)
 
 More papers coming soon! If you have suggestions, see the Contribution section.
 
